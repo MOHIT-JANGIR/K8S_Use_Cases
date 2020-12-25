@@ -5,7 +5,7 @@
 
 ## *The Docker or other container technology adoption is still growing exponentially, more and more companies have started using it in Production. It is important to use an orchestration platform to scale & manage your containers.*
 
-## -->> Imagine a situation where you have been using Docker for a little while, and have deployed on a few different servers. Your application starts getting massive traffic, and you need to scale up fast, how will you go from 3 servers to 40 servers that you may require? And how will you decide which container should go where? How would you monitor all these containers and make sure they are restarted if they exit?
+## -->> Imagine a situation where you have been using Crio or Docker for a little while, and have deployed on a few different servers. Your application starts getting massive traffic, and you need to scale up fast, how will you go from 3 servers to 40 servers that you may require? And how will you decide which container should go where? How would you monitor all these containers and make sure they are restarted if they exit?
 
 # ```This is where Kubernetes comes in.```
 ![image](https://user-images.githubusercontent.com/61896468/103124530-183f7d80-46ae-11eb-8027-f31a6de16474.png)
