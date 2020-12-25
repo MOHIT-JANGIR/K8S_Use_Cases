@@ -57,14 +57,14 @@ Airbnb’s transition from a monolithic to a microservices architecture is prett
 
 Read more about this story here.
 
-Pinterest’s Kubernetes story
-With over 250 million monthly active users and serving over 10 billion recommendations every single day, that is huge. (The numbers might have changed now) As they knew these numbers are going to grow day by day, they began to realize the pain of scalability and performance issues.
+# Pinterest’s Kubernetes story
+## With over 250 million monthly active users and serving over 10 billion recommendations every single day, that is huge. (The numbers might have changed now) As they knew these numbers are going to grow day by day, they began to realize the pain of scalability and performance issues.
 
-Their initial strategy was to move their workload from EC2 instances to Docker containers; hence they first moved their services to Docker to free up engineering time spent on Puppet and to have an immutable infrastructure.
+### Their initial strategy was to move their workload from EC2 instances to Docker containers; hence they first moved their services to Docker to free up engineering time spent on Puppet and to have an immutable infrastructure.
 
-And then the next strategy was to move to Kubernetes:) Now they can take ideas from ideation to production in a matter of minutes whereas earlier they used to take hours or even days. They have cut down so much of overhead cost by utilizing Kubernetes and have removed a lot of manual work without making engineers worry about the underlying infrastructure.
+## *And then the next strategy was to move to Kubernetes:) Now they can take ideas from ideation to production in a matter of minutes whereas earlier they used to take hours or even days. They have cut down so much of overhead cost by utilizing Kubernetes and have removed a lot of manual work without making engineers worry about the underlying infrastructure.*
 
-Read the Pinterest Kubernetes story on their website ‘[Pinterest Case Study]’
+# ```Read the Pinterest Kubernetes story on their website ```‘[Pinterest Case Study]’
 
 [Pinterest Case Study]: https://kubernetes.io/case-studies/pinterest/
 
@@ -84,13 +84,13 @@ Read the Pinterest Kubernetes story on their website ‘[Pinterest Case Study]�
 
 
 
-# `Impressive, isn’t it? Read the complete case study shared on [Google Cloud].`
+# `Impressive, isn’t it? Read the complete case study shared on `[Google Cloud].
 
 [Google Cloud]: https://cloud.google.com/blog/products/gcp/bringing-pokemon-go-to-life-on-google-cloud
 
 # Conclusion
 ## `Around the world, many CIO’s and technologists have chosen to use Kubernetes, and it is expected to evolve much more in the years to come.`
 
-## ```<u><b>Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.</b></u>```
+## <u><b>Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.</b></u>
 
 
