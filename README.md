@@ -9,6 +9,8 @@
 ## -->> Imagine a situation where you have been using Docker for a little while, and have deployed on a few different servers. Your application starts getting massive traffic, and you need to scale up fast, how will you go from 3 servers to 40 servers that you may require? And how will you decide which container should go where? How would you monitor all these containers and make sure they are restarted if they exit?
 
 # ```This is where Kubernetes comes in.```
+![image](https://user-images.githubusercontent.com/61896468/103124530-183f7d80-46ae-11eb-8027-f31a6de16474.png)
+![image](https://user-images.githubusercontent.com/61896468/103124650-6f455280-46ae-11eb-9979-a84efed10894.png)
 
 ![image](https://user-images.githubusercontent.com/61896468/103122769-aebc7080-46a7-11eb-80b3-d48046e8770a.png)
 
