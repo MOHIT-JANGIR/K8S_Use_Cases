@@ -25,7 +25,7 @@ Tinder’s engineering team solved interesting challenges to migrate 200 service
 
 Was that easy? No ways. However, they had to do it for the smooth business operations going further. One of their Engineering leaders said, “As we onboarded more and more services to Kubernetes, we found ourselves running a DNS service that was answering 250,000 requests per second.” Fantastic culture, Tinder’s entire engineering organization now has knowledge and experience on how to containerize and deploy their applications on Kubernetes.
 
-Read this fascinating case study ![][Here].
+Read this fascinating case study [Here].
 
 [Here] : https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 
