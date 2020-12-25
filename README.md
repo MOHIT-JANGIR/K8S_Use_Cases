@@ -89,7 +89,7 @@ Read more about this story here.
 [Google Cloud]: https://cloud.google.com/blog/products/gcp/bringing-pokemon-go-to-life-on-google-cloud
 
 # Conclusion
-## `Around the world, many CIO’s and technologists have chosen to use Kubernetes, and it is expected to evolve much more in the years to come.`
+## *Around the world, many CIO’s and technologists have chosen to use Kubernetes, and it is expected to evolve much more in the years to come.*
 
 ## <u><b>Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.</b></u>
 
