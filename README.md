@@ -17,45 +17,46 @@
 # `Let us take a look at how some of the most successful companies of our time are successfully using Kubernetes.`
 
 # Tinder’s move to Kubernetes
-Due to high traffic volume, Tinder’s engineering team faced challenges of scale and stability. What did they do?
+## Due to high traffic volume, Tinder’s engineering team faced challenges of scale and stability. What did they do?
 
-Kubernetes – Yes, the answer is Kubernetes.
+# Kubernetes – Yes, the answer is Kubernetes.
 
-Tinder’s engineering team solved interesting challenges to migrate 200 services and run a Kubernetes cluster at scale totaling 1,000 nodes, 15,000 pods, and 48,000 running containers.
+## ```Tinder’s engineering team solved interesting challenges to migrate 200 services and run a Kubernetes cluster at scale totaling 1,000 nodes, 15,000 pods, and 48,000 running containers.```
 
-Was that easy? No ways. However, they had to do it for the smooth business operations going further. One of their Engineering leaders said, “As we onboarded more and more services to Kubernetes, we found ourselves running a DNS service that was answering 250,000 requests per second.” Fantastic culture, Tinder’s entire engineering organization now has knowledge and experience on how to containerize and deploy their applications on Kubernetes.
+## -->> Was that easy? No ways. However, they had to do it for the smooth business operations going further. One of their Engineering leaders said, “As we onboarded more and more services to Kubernetes, we found ourselves running a DNS service that was answering 250,000 requests per second.” Fantastic culture, Tinder’s entire engineering organization now has knowledge and experience on how to containerize and deploy their applications on Kubernetes.
 
-Read this fascinating case study [Here].
+# *Read this fascinating case study* [Here].
 
 [Here]: https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 
-Reddit’s Kubernetes story
-Reddit is one of the top busiest sites in the world. Kubernetes forms the core of Reddit’s internal Infrastructure.
+# Reddit’s Kubernetes story
+## Reddit is one of the top busiest sites in the world. Kubernetes forms the core of Reddit’s internal Infrastructure.
 
-From many years, the Reddit infrastructure team followed traditional ways of provisioning and configuring. However, this didn’t go long until they saw some huge drawbacks and failures happening while doing the things the old way. They moved to ‘Kubernetes.’
+``` -->> From many years, the Reddit infrastructure team followed traditional ways of provisioning and configuring. However, this didn’t go long until they saw some huge drawbacks and failures happening while doing the things the old way. They moved to ``` ‘Kubernetes.’
 
 ![image](https://user-images.githubusercontent.com/61896468/103123216-951c2880-46a9-11eb-9659-e4c259cb3fb5.png)
 
-See this [video] where their infrastructure release engineering manager describes the Kubernetes story at Reddit.
+# `See this` [video] `where their infrastructure release engineering manager describes the Kubernetes story at Reddit.`
 
 [video]: https://www.youtube.com/watch?v=z7TIzCAEo0M
 
-The New York Times Journey to Kubernetes
-Today the majority of their customer-facing applications are running on Kubernetes. What an amazing story:) The biggest impact has been to speed up deployment and productivity. Legacy deployments that took up to 45 minutes are now pushed in just a few. It’s also given developers more freedom and fewer bottlenecks. The New York Times has gone from a ticket-based system for requesting resources and weekly deploy schedules to allowing developers to push updates independently.
+# The New York Times Journey to Kubernetes
+## Today the majority of their customer-facing applications are running on Kubernetes. What an amazing story:) The biggest impact has been to speed up deployment and productivity. Legacy deployments that took up to 45 minutes are now pushed in just a few. It’s also given developers more freedom and fewer bottlenecks. The New York Times has gone from a ticket-based system for requesting resources and weekly deploy schedules to allowing developers to push updates independently.
 
-Check out the evolution & the fascinating story of The New York Times tech stack [Here].
+# ``Check out the evolution & the fascinating story of The New York Times tech stack`` [Here].
 
 [Here]: https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 
-Airbnb’s Kubernetes story
-Airbnb’s transition from a monolithic to a microservices architecture is pretty amazing. They needed to scale continuous delivery horizontally, and the goal was to make continuous delivery available to the company’s 1000 or so engineers so they could add new services. Airbnb adopted to support over 1000 engineers concurrently configuring and deploying over 250 critical services to Kubernetes (at a frequency of about 500 deploys per day on average). I want you to see this excellent presentation from [Melanie Cebula], the infrastructure engineer at Airbnb.
+# Airbnb’s Kubernetes story
+## Airbnb’s transition from a monolithic to a microservices architecture is pretty amazing. They needed to scale continuous delivery horizontally, and the goal was to make continuous delivery available to the company’s 1000 or so engineers so they could add new services. Airbnb adopted to support over 1000 engineers concurrently configuring and deploying over 250 critical services to Kubernetes (at a frequency of about 500 deploys per day on average). I want you to see this excellent presentation from [Melanie Cebula], the infrastructure engineer at Airbnb.
 
 [Melanie Cebula]: https://twitter.com/MelanieCebula
 
 ![image](https://user-images.githubusercontent.com/61896468/103123438-5e92dd80-46aa-11eb-91a1-97b9359b919a.png)
 
 
-Read more about this story here.
+# `Read more about this story `[Here].
+[Here]: https://www.infoq.com/presentations/airbnb-kubernetes-services
 
 # Pinterest’s Kubernetes story
 ## With over 250 million monthly active users and serving over 10 billion recommendations every single day, that is huge. (The numbers might have changed now) As they knew these numbers are going to grow day by day, they began to realize the pain of scalability and performance issues.
@@ -89,8 +90,8 @@ Read more about this story here.
 [Google Cloud]: https://cloud.google.com/blog/products/gcp/bringing-pokemon-go-to-life-on-google-cloud
 
 # Conclusion
-## *Around the world, many CIO’s and technologists have chosen to use Kubernetes, and it is expected to evolve much more in the years to come.*
+## <u><b>Around the world, many CIO’s and technologists have chosen to use Kubernetes, and it is expected to evolve much more in the years to come.</u></b>
 
-## <u><b>Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.</b></u>
+## ```Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.```
 
 
