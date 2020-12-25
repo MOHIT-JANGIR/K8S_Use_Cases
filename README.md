@@ -2,7 +2,6 @@
 
 ## ```Kubernetes’ increased adoption is showcased by a number of influential companies which have integrated the technology into their services. Let us take a look at how some of the biggest companies of our time are successfully using Kubernetes.```
 ![image](https://user-images.githubusercontent.com/61896468/103125053-dca5b300-46af-11eb-9fc1-44df5e018420.png)
-![image](https://user-images.githubusercontent.com/61896468/103122676-479ebc00-46a7-11eb-85ae-f68b29e6ca98.png)
 
 ## *The Docker or other container technology adoption is still growing exponentially, more and more companies have started using it in Production. It is important to use an orchestration platform to scale & manage your containers.*
 
