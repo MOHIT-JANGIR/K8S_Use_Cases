@@ -29,3 +29,14 @@ Read this fascinating case study [Here].
 
 [Here]: https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 
+Reddit’s Kubernetes story
+Reddit is one of the top busiest sites in the world. Kubernetes forms the core of Reddit’s internal Infrastructure.
+
+From many years, the Reddit infrastructure team followed traditional ways of provisioning and configuring. However, this didn’t go long until they saw some huge drawbacks and failures happening while doing the things the old way. They moved to ‘Kubernetes.’
+
+![image](https://user-images.githubusercontent.com/61896468/103123216-951c2880-46a9-11eb-9659-e4c259cb3fb5.png)
+
+See this [video] where their infrastructure release engineering manager describes the Kubernetes story at Reddit.
+
+[video]: https://www.youtube.com/watch?v=z7TIzCAEo0M
+
