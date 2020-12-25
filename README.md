@@ -27,6 +27,5 @@ Was that easy? No ways. However, they had to do it for the smooth business opera
 
 Read this fascinating case study ![][Here].
 
-[Here]: https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44 ""
-
+[Here] : https://medium.com/tinder-engineering/tinders-move-to-kubernetes-cda2a6372f44
 
