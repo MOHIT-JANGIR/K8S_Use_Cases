@@ -36,6 +36,10 @@
 
 ``` -->> From many years, the Reddit infrastructure team followed traditional ways of provisioning and configuring. However, this didn’t go long until they saw some huge drawbacks and failures happening while doing the things the old way. They moved to ``` ‘Kubernetes.’
 
+![image](https://user-images.githubusercontent.com/61896468/103124887-407bac00-46af-11eb-9e05-eb628966f8c8.png)
+
+![image](https://user-images.githubusercontent.com/61896468/103124809-f266a880-46ae-11eb-950c-b7f05dae1023.png)
+
 ![image](https://user-images.githubusercontent.com/61896468/103123216-951c2880-46a9-11eb-9659-e4c259cb3fb5.png)
 
 # `See this` [video] `where their infrastructure release engineering manager describes the Kubernetes story at Reddit.`
@@ -43,6 +47,9 @@
 [video]: https://www.youtube.com/watch?v=z7TIzCAEo0M
 
 # The New York Times Journey to Kubernetes
+
+![image](https://user-images.githubusercontent.com/61896468/103124963-820c5700-46af-11eb-9b6c-2eba0dcf0da8.png)
+
 ## Today the majority of their customer-facing applications are running on Kubernetes. What an amazing story:) The biggest impact has been to speed up deployment and productivity. Legacy deployments that took up to 45 minutes are now pushed in just a few. It’s also given developers more freedom and fewer bottlenecks. The New York Times has gone from a ticket-based system for requesting resources and weekly deploy schedules to allowing developers to push updates independently.
 
 # ``Check out the evolution & the fascinating story of The New York Times tech stack`` [Here].
@@ -96,4 +103,4 @@
 
 ## ```Containers are becoming more and more popular in the software world and Kubernetes has become the industry standard for deploying containers in production. We will expect a high growth rate of Kubernetes this year too.```
 
-
+![image](https://user-images.githubusercontent.com/61896468/103124914-61dc9800-46af-11eb-8ead-0dbc5b4e2cd6.png)
